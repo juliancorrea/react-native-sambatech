@@ -2,7 +2,7 @@
 # react-native-sambatech
 Bridge para SDK do player da SambaTech funcionando apenas para Android.
 
-Aplicação exemplo
+Aplicação exemplo:
 
 ![rn-sambaplayer-sample-app](https://user-images.githubusercontent.com/5554854/126212673-8e188405-d628-4c5f-836f-f4b98a9a46a5.jpg)
 
