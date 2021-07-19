@@ -1,0 +1,11 @@
+rootProject.name = 'RNSambatechPlayerSdk'
+
+include ':sambaplayersdk'
+project(':sambaplayersdk').projectDir=new File(rootProject.projectDir, '../player_sdk_android/sambaplayersdk')
+
+println('ROOT projectDir ===> '+ rootProject.projectDir)
+println('ROOT path ===> '+ rootProject.path)
+println('ROOT parent ===> '+ rootProject.parent)
+println('ROOT FILE  ===> '+ new File(rootProject.projectDir,'../player_sdk_android/sambaplayersdk'))
+
+include ':app'
