@@ -1,5 +1,5 @@
 
-# react-native-sambatech-player
+# react-native-sambatech
 Bridge para SDK do player da SambaTech funcionando apenas para Android.
 
 Aplicação exemplo
