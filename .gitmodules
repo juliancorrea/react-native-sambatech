@@ -1,0 +1,3 @@
+[submodule "player_sdk_android"]
+	path = player_sdk_android
+	url = https://github.com/juliancorrea/player_sdk_android.git
